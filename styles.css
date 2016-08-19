@@ -1,0 +1,32 @@
+/* add your CSS here */
+
+.main {
+  width: 300px;
+  height: auto;
+  border: 1px solid #E4E4E4;
+  padding: 20px;
+  margin: 100px;
+  font-family: "Avenir Next" !important;
+  box-shadow: 10px 10px 5px 0px rgba(199,199,199,0.83);
+  background: linear-gradient(#54D8B9, #79E4B0, #E4E4E4);
+}
+
+img {
+  width: 300px;
+  height: auto;
+  border: 2px solid #436D61;
+  margin-bottom: 20px;
+  border-radius: 50px;
+}
+
+.name {
+  border: 2px solid #436D61;
+  border-radius: 20px;
+}
+
+.content {
+  border: 2px solid #436D61;
+  padding: 20px;
+  font-size: 12px;
+  border-radius: 20px;
+}
